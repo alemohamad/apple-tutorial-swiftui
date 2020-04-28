@@ -26,3 +26,4 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 8:** Generating Previews Dynamically
 3. Handling User Input
   * **Section 1:** Mark the User’s Favorite Landmarks
+  * **Section 2:** Filter the List View
