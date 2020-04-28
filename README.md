@@ -10,7 +10,7 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
 
 1. Creating and Combining Views
   * **Section 1:** Create a New Project and Explore the Canvas
-  * **Section 2:** Customize the Text View
+  * **Section 2:** : the Text View
   * **Section 3:** Combine Views Using Stacks
   * **Section 4:** Create a Custom Image View
   * **Section 5:** Use UIKit and SwiftUI Views Together
@@ -31,3 +31,9 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 4:** Use an Observable Object for Storage
   * **Section 5:** Adopt the Model Object in Your Views
   * **Section 6:** Create a Favorite Button for Each Landmark
+
+## Drawing and Animation
+
+1. Drawing Paths and Shapes
+  * **Section 1:** Create a Badge View
+

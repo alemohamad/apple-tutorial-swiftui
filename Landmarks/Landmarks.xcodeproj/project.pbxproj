@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		99BFB7182458B252008E766A /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BFB7172458B252008E766A /* Badge.swift */; };
 		99DEFB8F245897CE006E7A1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB8E245897CE006E7A1F /* AppDelegate.swift */; };
 		99DEFB91245897CE006E7A1F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB90245897CE006E7A1F /* SceneDelegate.swift */; };
 		99DEFB93245897CE006E7A1F /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB92245897CE006E7A1F /* LandmarkDetail.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		99BFB7172458B252008E766A /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		99DEFB8B245897CE006E7A1F /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99DEFB8E245897CE006E7A1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99DEFB90245897CE006E7A1F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -100,7 +102,6 @@
 				99DEFB8E245897CE006E7A1F /* AppDelegate.swift */,
 				99DEFB90245897CE006E7A1F /* SceneDelegate.swift */,
 				99DEFB92245897CE006E7A1F /* LandmarkDetail.swift */,
-				99DEFBC72458A0C4006E7A1F /* LandmarkRow.swift */,
 				99DEFBC92458A1B2006E7A1F /* LandmarkList.swift */,
 				99DEFBAC24589F4E006E7A1F /* Supporting Views */,
 				99DEFBAB24589F3C006E7A1F /* Resources */,
@@ -155,6 +156,8 @@
 			children = (
 				99DEFBA224589A78006E7A1F /* CircleImage.swift */,
 				99DEFBA424589B07006E7A1F /* MapView.swift */,
+				99DEFBC72458A0C4006E7A1F /* LandmarkRow.swift */,
+				99BFB7172458B252008E766A /* Badge.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 			files = (
 				99DEFBAA24589F30006E7A1F /* Landmark.swift in Sources */,
 				99DEFB8F245897CE006E7A1F /* AppDelegate.swift in Sources */,
+				99BFB7182458B252008E766A /* Badge.swift in Sources */,
 				99DEFBA824589F23006E7A1F /* Data.swift in Sources */,
 				99DEFBA324589A78006E7A1F /* CircleImage.swift in Sources */,
 				99DEFBCA2458A1B2006E7A1F /* LandmarkList.swift in Sources */,
