@@ -43,4 +43,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 1:** Add Animations to Individual Views
   * **Section 2:** Animate the Effects of State Changes
   * **Section 3:** Customize View Transitions
+  * **Section 4:** Compose Animations for Complex Effects
 
