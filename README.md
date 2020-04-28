@@ -18,3 +18,4 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
 2. Building Lists and Navigation
   * **Section 1:** Get to Know the Sample Data
   * **Section 2:** Create the Row View
+  * **Section 3:** Customize the Row Preview
