@@ -25,3 +25,9 @@ When creating a SwiftUI view, you describe its content, layout, and behavior in 
 
 In this section, you’ll use a vertical stack to place the title above a horizontal stack that contains details about the park.
 
+## Section 4: Create a Custom Image View
+
+With the name and location views all set, the next step is to add an image for the landmark.
+
+Instead of adding more code in this file, you’ll create a custom view that applies a mask, border, and drop shadow to the image.
+
