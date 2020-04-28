@@ -36,4 +36,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
 
 1. Drawing Paths and Shapes
   * **Section 1:** Create a Badge View
+  * **Section 2:** Draw the Badge Background
 
