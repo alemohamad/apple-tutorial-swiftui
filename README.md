@@ -31,3 +31,9 @@ With the name and location views all set, the next step is to add an image for t
 
 Instead of adding more code in this file, you’ll create a custom view that applies a mask, border, and drop shadow to the image.
 
+## Section 5: Use UIKit and SwiftUI Views Together
+
+Now you’re ready to create a map view. You can use the MKMapView class from MapKit to render the map.
+
+To use UIView subclasses from within SwiftUI, you wrap the other view in a SwiftUI view that conforms to the UIViewRepresentable protocol. SwiftUI includes similar protocols for WatchKit and AppKit views.
+
