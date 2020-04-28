@@ -30,3 +30,4 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 3:** Add a Control to Toggle the State
   * **Section 4:** Use an Observable Object for Storage
   * **Section 5:** Adopt the Model Object in Your Views
+  * **Section 6:** Create a Favorite Button for Each Landmark
