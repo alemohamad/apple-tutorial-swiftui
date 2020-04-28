@@ -45,3 +45,8 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 3:** Customize View Transitions
   * **Section 4:** Compose Animations for Complex Effects
 
+## App Design and Layout
+
+1. Composing Complex Interfaces
+  * **Section 1:** Add a Home View
+
