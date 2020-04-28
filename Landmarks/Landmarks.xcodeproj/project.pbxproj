@@ -31,6 +31,7 @@
 		99DEFBC524589FD7006E7A1F /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99DEFBB824589FD7006E7A1F /* hiddenlake.jpg */; };
 		99DEFBC624589FD7006E7A1F /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99DEFBB924589FD7006E7A1F /* silversalmoncreek.jpg */; };
 		99DEFBC82458A0C4006E7A1F /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFBC72458A0C4006E7A1F /* LandmarkRow.swift */; };
+		99DEFBCA2458A1B2006E7A1F /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFBC92458A1B2006E7A1F /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		99DEFBB824589FD7006E7A1F /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiddenlake.jpg; sourceTree = "<group>"; };
 		99DEFBB924589FD7006E7A1F /* silversalmoncreek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silversalmoncreek.jpg; sourceTree = "<group>"; };
 		99DEFBC72458A0C4006E7A1F /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		99DEFBC92458A1B2006E7A1F /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				99DEFB90245897CE006E7A1F /* SceneDelegate.swift */,
 				99DEFB92245897CE006E7A1F /* LandmarkDetail.swift */,
 				99DEFBC72458A0C4006E7A1F /* LandmarkRow.swift */,
+				99DEFBC92458A1B2006E7A1F /* LandmarkList.swift */,
 				99DEFBAC24589F4E006E7A1F /* Supporting Views */,
 				99DEFBAB24589F3C006E7A1F /* Resources */,
 				99DEFB94245897D2006E7A1F /* Assets.xcassets */,
@@ -241,6 +244,7 @@
 				99DEFB8F245897CE006E7A1F /* AppDelegate.swift in Sources */,
 				99DEFBA824589F23006E7A1F /* Data.swift in Sources */,
 				99DEFBA324589A78006E7A1F /* CircleImage.swift in Sources */,
+				99DEFBCA2458A1B2006E7A1F /* LandmarkList.swift in Sources */,
 				99DEFBA524589B07006E7A1F /* MapView.swift in Sources */,
 				99DEFB91245897CE006E7A1F /* SceneDelegate.swift in Sources */,
 				99DEFBC82458A0C4006E7A1F /* LandmarkRow.swift in Sources */,
