@@ -29,3 +29,4 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 2:** Filter the List View
   * **Section 3:** Add a Control to Toggle the State
   * **Section 4:** Use an Observable Object for Storage
+  * **Section 5:** Adopt the Model Object in Your Views
