@@ -41,4 +41,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 4:** Combine the Badge Foreground and Background
 2. Animating Views and Transitions
   * **Section 1:** Add Animations to Individual Views
+  * **Section 2:** Animate the Effects of State Changes
 
