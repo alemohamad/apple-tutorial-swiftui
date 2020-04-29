@@ -58,4 +58,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 1:** Display a User Profile
   * **Section 2:** Add an Edit Mode
   * **Section 3:** Define the Profile Editor
+  * **Section 4:** Delay Edit Propagation
 
