@@ -66,4 +66,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 1:** Create View to Represent a UIPageViewController
   * **Section 2:** Create the View Controller's Data Source
   * **Section 3:** Track the Page in a SwiftUI View’s State
+  * **Section 4:** Add a Custom Page Control
 
