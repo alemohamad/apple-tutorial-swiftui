@@ -72,4 +72,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 1:** Add a watchOS Target
   * **Section 2:** Share Files Between Targets
   * **Section 3:** Create the Detail View
+  * **Section 4:** Add the watchOS Map View
 
