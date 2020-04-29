@@ -77,4 +77,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
 3. Creating a macOS App
   * **Section 1:** Add a macOS Target to the Project
   * **Section 2:** Share Data and Assets
+  * **Section 3:** Create a Row View
 
