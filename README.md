@@ -80,4 +80,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 3:** Create a Row View
   * **Section 4:** Assemble Rows into a List
   * **Section 5:** Create a Filter to Manage the List
+  * **Section 6:** Combine the List and Filter Views
 
