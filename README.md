@@ -68,3 +68,6 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 3:** Track the Page in a SwiftUI View’s State
   * **Section 4:** Add a Custom Page Control
 
+2. Creating a watchOS App
+  * **Section 1:** Add a watchOS Target
+
