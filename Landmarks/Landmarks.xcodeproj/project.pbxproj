@@ -70,6 +70,7 @@
 		99D7234824599C080064DF4F /* turtlerock_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99BFB73D2459863E008E766A /* turtlerock_feature.jpg */; };
 		99D7234A24599E340064DF4F /* WatchLandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D7234924599E340064DF4F /* WatchLandmarkDetail.swift */; };
 		99D7234C2459A7140064DF4F /* WatchMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D7234B2459A7140064DF4F /* WatchMapView.swift */; };
+		99D7234D245A05DD0064DF4F /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFBC92458A1B2006E7A1F /* LandmarkList.swift */; };
 		99DEFB8F245897CE006E7A1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB8E245897CE006E7A1F /* AppDelegate.swift */; };
 		99DEFB91245897CE006E7A1F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB90245897CE006E7A1F /* SceneDelegate.swift */; };
 		99DEFB93245897CE006E7A1F /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99DEFB92245897CE006E7A1F /* LandmarkDetail.swift */; };
@@ -581,6 +582,7 @@
 				99D7234C2459A7140064DF4F /* WatchMapView.swift in Sources */,
 				99D7233324599BD20064DF4F /* Profile.swift in Sources */,
 				99D72316245998CD0064DF4F /* HostingController.swift in Sources */,
+				99D7234D245A05DD0064DF4F /* LandmarkList.swift in Sources */,
 				99D7233124599BD20064DF4F /* UserData.swift in Sources */,
 				99D7232F24599BD20064DF4F /* Data.swift in Sources */,
 				99D7233524599BD20064DF4F /* CircleImage.swift in Sources */,
