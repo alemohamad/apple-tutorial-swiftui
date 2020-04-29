@@ -53,7 +53,6 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 3:** Add Rows of Landmarks
   * **Section 4:** Compose the Home View
   * **Section 5:** Add Navigation Between Sections
-
 2. Working with UI Controls
   * **Section 1:** Display a User Profile
   * **Section 2:** Add an Edit Mode
@@ -67,10 +66,10 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 2:** Create the View Controller's Data Source
   * **Section 3:** Track the Page in a SwiftUI View’s State
   * **Section 4:** Add a Custom Page Control
-
 2. Creating a watchOS App
   * **Section 1:** Add a watchOS Target
   * **Section 2:** Share Files Between Targets
   * **Section 3:** Create the Detail View
   * **Section 4:** Add the watchOS Map View
+  * **Section 5:** Create a Cross-Platform List View
 
