@@ -84,4 +84,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Creat
   * **Section 7:** Prepare the Circle Image for Reuse
   * **Section 8:** Extend the Map View for macOS
   * **Section 9:** Build the Detail View
+  * **Section 10:** Combine the Master and Detail Views
 
